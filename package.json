@@ -1,0 +1,31 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "This is my simple application to learn Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmreddyt/Grunt.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Mahesh Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/vmreddyt/Grunt/issues"
+  },
+  "homepage": "https://github.com/vmreddyt/Grunt#readme",
+  "devDependencies": {
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
